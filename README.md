@@ -13,7 +13,7 @@ A simple web app that predicts if a person has a **low risk** or a **high risk**
 
 ## 🔗 Live Demo
 
-**Live app:** _add your Streamlit link here_ (example: `https://your-app-name.streamlit.app`)
+https://a1iahmat-heart-disease-prediction-app-app-3ct5sd.streamlit.app/
 
 ---
 
